@@ -1,1 +1,1 @@
-# Sklearn-Digits-Dataset
+# Digit-Recognition
